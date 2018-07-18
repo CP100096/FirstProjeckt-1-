@@ -4,3 +4,5 @@ second change of file
 
 
 changed while we are at feature1 branch
+
+line 8 added inside VS code!
